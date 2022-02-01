@@ -9,7 +9,6 @@ from tkinter import *
 # the ttk command is required to get extra widgets, including the combobox
 from tkinter import ttk
 
-
 """
 We create an object using some of the built in functions from the
 tkinter Tk class. We also use some of the object methods to set

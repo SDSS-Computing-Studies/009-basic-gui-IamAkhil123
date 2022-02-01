@@ -11,7 +11,7 @@ than using .pack().
 
 window = tk.Tk()
 window.title("Packing Widgets example")
-# this makes your window a fixed size; it cannot be resize in the (x,y) directions
+
 window.resizable(False,False)
 """
 .geometry is not used, because we want the window to grow to the
