@@ -18,7 +18,7 @@ structures like Frames that are just for organizing and grouping other widgets.
 Once we define a widget, we have to configure its options and then find the
 best way to display the widget in the window.
 Today we will explore the 3 ways of placing widgets:
-.pack()
+.pack() 
 .grid()
 .place()
 
